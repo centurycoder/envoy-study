@@ -1,0 +1,12 @@
+# Local Python virtual environments (including grpc/.venv/).
+.venv/
+
+# Python bytecode caches; generated protobuf .py sources remain trackable.
+__pycache__/
+*.py[cod]
+
+# Service runtime state: PID files and logs, not source/configuration.
+.state/
+
+# macOS filesystem metadata.
+.DS_Store
