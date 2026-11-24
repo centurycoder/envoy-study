@@ -10,3 +10,6 @@ __pycache__/
 
 # macOS filesystem metadata.
 .DS_Store
+
+# envoy binaries
+bin/
